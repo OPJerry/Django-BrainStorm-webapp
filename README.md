@@ -1,7 +1,10 @@
 
 <h1 align="center"> BrainStorm </h1>
 
-One of my projects. This is web app named "BrainStorm". App was created to help small or midsize companies, develop and manage the ideas of upcoming projects.
+One of my projects. This is web app named "BrainStorm". Main goal of this app was to create enviorment, to share ideas in company between team members.
+App inspired by popular social websites.
+Each user have his own social profile with his profile picture, users are able to: add, delete, edit his posts and also comment other users ideas.
+app have user authorization
 
 App: https://brain-storm.up.railway.app
 
