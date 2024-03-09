@@ -2,7 +2,7 @@
 <h1 align="center"> BrainStorm </h1>
 
 One of my projects. This is web app named "BrainStorm". App was created to help small or midsize companies, develop and manage the ideas of upcoming projects.
-
+<a href="https://brain-storm.up.railway.app" target="_blank" rel="noreferrer"> <img src="https://github.com/OPJerry/Django-BrainStorm-webapp/assets/155251228/bc740529-027e-454a-9cb7-cbd77745a71f" align="right" alt="python" width="80" height="80"/> </a> </p>
 
 
 
